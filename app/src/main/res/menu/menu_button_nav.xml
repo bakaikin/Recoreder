@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/recordFragment"
+        android:title="Запись"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item android:id="@+id/listRecordFragment"
+        android:title="Список"
+        android:icon="@drawable/ic_launcher_background"/>
+
+</menu>
